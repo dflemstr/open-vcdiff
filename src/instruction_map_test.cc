@@ -14,7 +14,7 @@
 //
 // Unit tests for the class VCDiffInstructionMap, found in instruction_map.h.
 
-#include <config.h>
+#include "config.h"
 #include "instruction_map.h"
 #include "codetable.h"
 #include "testing.h"

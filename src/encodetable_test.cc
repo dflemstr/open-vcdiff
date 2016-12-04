@@ -14,7 +14,7 @@
 //
 // Unit tests for the class VCDiffCodeTableWriter, found in encodetable.h.
 
-#include <config.h>
+#include "config.h"
 #include <string.h>  // strlen
 #include <algorithm>
 #include <string>

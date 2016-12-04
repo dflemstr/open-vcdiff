@@ -14,7 +14,7 @@
 //
 // Unit tests for struct VCDiffCodeTableData, found in codetable.h.
 
-#include <config.h>
+#include "config.h"
 #include "codetable.h"
 #include "addrcache.h"
 #include "testing.h"

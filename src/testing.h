@@ -15,7 +15,7 @@
 #ifndef OPEN_VCDIFF_TESTING_H_
 #define OPEN_VCDIFF_TESTING_H_
 
-#include <config.h>
+#include "config.h"
 #include <assert.h>
 #include <stdint.h>  // int64_t
 #include <stdlib.h>  // rand

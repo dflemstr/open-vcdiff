@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#include <config.h>
+#include "config.h"
 #include "blockhash.h"
 #include <limits.h>  // INT_MIN
 #include <string.h>  // memcpy, memcmp, strlen

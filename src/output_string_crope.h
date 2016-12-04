@@ -18,7 +18,7 @@
 
 #ifndef OPEN_VCDIFF_OUTPUT_STRING_CROPE_H_
 #define OPEN_VCDIFF_OUTPUT_STRING_CROPE_H_
-#include <config.h>
+#include "config.h"
 #ifdef HAVE_EXT_ROPE
 #include <ext/rope>
 #include "google/output_string.h"

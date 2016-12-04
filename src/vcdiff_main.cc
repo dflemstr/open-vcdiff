@@ -14,7 +14,7 @@
 //
 // A command-line interface to the open-vcdiff library.
 
-#include <config.h>
+#include "config.h"
 #include <assert.h>
 #include <errno.h>
 #ifdef WIN32

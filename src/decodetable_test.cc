@@ -14,7 +14,7 @@
 //
 // Unit tests for the class VCDiffCodeTableReader, found in decodetable.h.
 
-#include <config.h>
+#include "config.h"
 #include "decodetable.h"
 #include <stdint.h>  // int32_t
 #include <vector>
